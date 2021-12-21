@@ -31,4 +31,4 @@
 
 ## Organisations
 
-- [NLP Group at Filozofki fakultet at University of Zagreb](http://nlp.ffzg.hr/)
+- [NLP Group at Filozofski fakultet at the University of Zagreb](http://nlp.ffzg.hr/)
