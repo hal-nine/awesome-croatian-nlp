@@ -1,9 +1,9 @@
-# Awesome NLP Resources for Croatian
+# NLP Resources for Croatian
 
 > A curated list of *free* resources dedicated to Croatian
 > Natural Language Processing
 >
-> Maintainers - [Stefan Koch](https://github.com/aufziehvogel)
+> Based on initial work by - [Stefan Koch](https://github.com/aufziehvogel)
 
 ## Tools and/or Models
 
