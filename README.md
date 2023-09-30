@@ -31,4 +31,5 @@
 
 ## Organisations
 
+- [AI:X:Lab at the Zagreb School of Economics and Management](https://zsem.hr/en/)
 - [NLP Group at Filozofki fakultet at University of Zagreb](http://nlp.ffzg.hr/)
